@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组形式的整数加法", "数组形式的整数加法\数组形式的整数加法.vcxproj", "{C665F471-DF05-4B04-B95E-E98D081DC3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C665F471-DF05-4B04-B95E-E98D081DC3AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C665F471-DF05-4B04-B95E-E98D081DC3AA}.Debug|Win32.Build.0 = Debug|Win32
+		{C665F471-DF05-4B04-B95E-E98D081DC3AA}.Release|Win32.ActiveCfg = Release|Win32
+		{C665F471-DF05-4B04-B95E-E98D081DC3AA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
