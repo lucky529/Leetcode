@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "下一个最大的元素3", "下一个最大的元素3\下一个最大的元素3.vcxproj", "{27BD80EB-DA6B-4B19-8C2D-A8705A6CA769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BD80EB-DA6B-4B19-8C2D-A8705A6CA769}.Debug|Win32.ActiveCfg = Debug|Win32
+		{27BD80EB-DA6B-4B19-8C2D-A8705A6CA769}.Debug|Win32.Build.0 = Debug|Win32
+		{27BD80EB-DA6B-4B19-8C2D-A8705A6CA769}.Release|Win32.ActiveCfg = Release|Win32
+		{27BD80EB-DA6B-4B19-8C2D-A8705A6CA769}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
