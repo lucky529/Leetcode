@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "乘水最多的容器", "乘水最多的容器\乘水最多的容器.vcxproj", "{6FFE5961-5A78-45E0-A667-C5F76D68C61D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FFE5961-5A78-45E0-A667-C5F76D68C61D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6FFE5961-5A78-45E0-A667-C5F76D68C61D}.Debug|Win32.Build.0 = Debug|Win32
+		{6FFE5961-5A78-45E0-A667-C5F76D68C61D}.Release|Win32.ActiveCfg = Release|Win32
+		{6FFE5961-5A78-45E0-A667-C5F76D68C61D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
