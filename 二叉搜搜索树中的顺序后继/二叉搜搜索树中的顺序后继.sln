@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二叉搜搜索树中的顺序后继", "二叉搜搜索树中的顺序后继\二叉搜搜索树中的顺序后继.vcxproj", "{0A9988E4-1E56-4E63-BF96-512AB8EB9588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9988E4-1E56-4E63-BF96-512AB8EB9588}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0A9988E4-1E56-4E63-BF96-512AB8EB9588}.Debug|Win32.Build.0 = Debug|Win32
+		{0A9988E4-1E56-4E63-BF96-512AB8EB9588}.Release|Win32.ActiveCfg = Release|Win32
+		{0A9988E4-1E56-4E63-BF96-512AB8EB9588}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
