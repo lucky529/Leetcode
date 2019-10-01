@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数字在排序数组中出现的次数", "数字在排序数组中出现的次数\数字在排序数组中出现的次数.vcxproj", "{E2E2A3B0-29C7-4380-BD12-C679C84DE55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E2A3B0-29C7-4380-BD12-C679C84DE55A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2E2A3B0-29C7-4380-BD12-C679C84DE55A}.Debug|Win32.Build.0 = Debug|Win32
+		{E2E2A3B0-29C7-4380-BD12-C679C84DE55A}.Release|Win32.ActiveCfg = Release|Win32
+		{E2E2A3B0-29C7-4380-BD12-C679C84DE55A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
