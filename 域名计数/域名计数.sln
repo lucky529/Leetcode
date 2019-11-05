@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "域名计数", "域名计数\域名计数.vcxproj", "{B6108BF6-E2A9-4471-9D6E-DC8F3891D245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6108BF6-E2A9-4471-9D6E-DC8F3891D245}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6108BF6-E2A9-4471-9D6E-DC8F3891D245}.Debug|Win32.Build.0 = Debug|Win32
+		{B6108BF6-E2A9-4471-9D6E-DC8F3891D245}.Release|Win32.ActiveCfg = Release|Win32
+		{B6108BF6-E2A9-4471-9D6E-DC8F3891D245}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
